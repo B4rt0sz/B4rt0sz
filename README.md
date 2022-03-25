@@ -23,10 +23,11 @@ I am a self-taught developer. I learned to program from online courses, I put my
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=Visual-Studio-Code&logoColor=white&style=flat)
 
 ## :file_folder: Latest Projects:
-- [x] :scroll: The project of my portfolio website [Repo](https://github.com/B4rt0sz/my-portfolio) | [Demo](https://bartoszszucko.netlify.app)
+- [x] :scroll: My first website [Repo](https://github.com/B4rt0sz/my-portfolio) | [Demo](https://bartoszszucko-old.netlify.app)
 - [x] :page_facing_up: React Webpack 5 Boilerplate [Repo](https://github.com/B4rt0sz/react-webpack-5-boilerplate) | [Demo](https://webpack5boilerplate.netlify.app)
 - [x] :game_die: Memory Game [Repo](https://github.com/B4rt0sz/react-memory-game) | [Demo](https://pokemon-mcg.netlify.app)
 - [x] :convenience_store: E-commerce Coffee Shop [Repo](https://github.com/B4rt0sz/ecommerce-coffe-shop) | [Demo](https://egocoffee.netlify.app/) ```Card info for payment: Number: 4242 4242 4242 4242 / Date: any / CVC: any ```
+- [x] :book: The project of my portfolio website [Demo](https://bartoszszucko.netlify.app)
 ## :black_nib: Currently working on:
 - [ ] :sunny: Weather App [Repo](https://github.com/B4rt0sz/weather-app) | [Demo](https://bartsweather.netlify.app/)
 
