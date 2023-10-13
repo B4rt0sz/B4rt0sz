@@ -1,7 +1,7 @@
 # Greetings!:wave: My name is Bartosz and it is pleasure to meet you!
 
 ## :man: About me:
-I am a self-taught developer. I learned to program from online courses, I put my theoretical knowledge into practice by creating my portfolio website with a few additional projects. I am an independent person with a passion for learning, in my spare time I improve my own projects and expand my programming knowledge. Currently, I am looking for work that will help me develop my skills even further as a Front-End Developer.
+I am a self-taught developer who began my journey in programming through online courses. As an independent individual with a passion for learning, I dedicated my spare time to improving my projects and expanding my programming knowledge. In March 2022, thanks to my perseverance, I embarked on my professional journey as a programmer. This provided me with the opportunity to work on diverse projects and further enhance my skills. I am always eager to learn and grow, and I am currently seeking opportunities that will allow me to further develop my skills as a Front-End Developer.
 
 ## :hammer: Skills:
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat)
