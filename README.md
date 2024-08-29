@@ -1,4 +1,4 @@
-# Greetings!:wave: My name is Bartosz and it is pleasure to meet you!
+# Greetings! :wave: My name is Bartosz and it is pleasure to meet you!
 
 ## :man: About me:
 I am a self-taught developer who began my journey in programming through online courses. As an independent individual with a passion for learning, I dedicated my spare time to improving my projects and expanding my programming knowledge. In March 2022, thanks to my perseverance, I embarked on my professional journey as a programmer. This provided me with the opportunity to work on diverse projects and further enhance my skills. I am always eager to learn and grow, and I am currently seeking opportunities that will allow me to further develop my skills as a Front-End Developer.
